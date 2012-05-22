@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="DatabaseDrivenWebsite.Main" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>My Website</title>
+    <link href="style/Main.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="MainData">
+    <div id="Header">Header</div>
+    <div id="Menu">
+        <asp:Panel ID="pnMenu" runat="server">
+        <a href="Home.aspx">Home</a> | <a href="Stock.aspx">Stock</a> | <a href="Finance.aspx">Finance</a>
+        </asp:Panel> 
+    </div>
+    <div id="Content">Content
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        </div>
+        <div id="Footer">Copyright © 2012 Chris Hotchkiss</div>
+    </div>
+    </form>
+</body>
+</html>

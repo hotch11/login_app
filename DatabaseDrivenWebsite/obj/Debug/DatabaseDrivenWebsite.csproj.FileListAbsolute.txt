@@ -1,0 +1,8 @@
+c:\users\laura\documents\visual studio 2010\Projects\DatabaseDrivenWebsite\DatabaseDrivenWebsite\bin\DatabaseDrivenWebsite.dll
+c:\users\laura\documents\visual studio 2010\Projects\DatabaseDrivenWebsite\DatabaseDrivenWebsite\bin\DatabaseDrivenWebsite.pdb
+c:\users\laura\documents\visual studio 2010\Projects\DatabaseDrivenWebsite\DatabaseDrivenWebsite\obj\Debug\ResolveAssemblyReference.cache
+c:\users\laura\documents\visual studio 2010\Projects\DatabaseDrivenWebsite\DatabaseDrivenWebsite\obj\Debug\DatabaseDrivenWebsite.dll
+c:\users\laura\documents\visual studio 2010\Projects\DatabaseDrivenWebsite\DatabaseDrivenWebsite\obj\Debug\DatabaseDrivenWebsite.pdb
+c:\users\laura\documents\visual studio 2010\Projects\DatabaseDrivenWebsite\DatabaseDrivenWebsite\bin\MainData.accdb
+c:\users\laura\documents\visual studio 2010\Projects\DatabaseDrivenWebsite\DatabaseDrivenWebsite\bin\DataLayer.dll
+c:\users\laura\documents\visual studio 2010\Projects\DatabaseDrivenWebsite\DatabaseDrivenWebsite\bin\DataLayer.pdb

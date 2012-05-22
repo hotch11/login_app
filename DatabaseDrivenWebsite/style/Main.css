@@ -1,0 +1,48 @@
+﻿body 
+{
+    font-family: Calibri, Verdana, Sans-Serif;
+    font-size: 12pt;
+    background-color: #AAAAAA;
+}
+
+#MainData 
+{
+    position: relative;
+    width: 1000px;
+    margin:auto;
+    background-color: White;
+}
+
+#Header 
+{
+    width: 100%;
+    height: 100px;
+    background-color: #AAAAFF;
+}
+
+#Menu
+{
+    width: 100%;
+    height: 20px;
+    background-color: White;
+    text-align: center;
+    
+}
+
+#Content 
+{
+    width: 100%;
+    background-color: #AAAAFF
+}
+
+#Footer 
+{
+    clear: both;
+    width: 100%;
+    height: 20px;
+    background-color: White;
+    text-align: center;
+}
+
+
+    

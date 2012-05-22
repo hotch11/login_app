@@ -1,0 +1,5 @@
+c:\users\laura\documents\visual studio 2010\Projects\DatabaseDrivenWebsite\DataLayer\bin\Debug\DataLayer.dll
+c:\users\laura\documents\visual studio 2010\Projects\DatabaseDrivenWebsite\DataLayer\bin\Debug\DataLayer.pdb
+c:\users\laura\documents\visual studio 2010\Projects\DatabaseDrivenWebsite\DataLayer\obj\Debug\ResolveAssemblyReference.cache
+c:\users\laura\documents\visual studio 2010\Projects\DatabaseDrivenWebsite\DataLayer\obj\Debug\DataLayer.dll
+c:\users\laura\documents\visual studio 2010\Projects\DatabaseDrivenWebsite\DataLayer\obj\Debug\DataLayer.pdb
